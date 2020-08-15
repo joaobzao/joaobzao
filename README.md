@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/joaobzao/joaobzao/master/readme-header.gif?token=ACALHIWNIBOPFWK6ZWPSFM27G74NM "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif?token=ACALHIWNIBOPFWK6ZWPSFM27G74NM" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/joaobzao/joaobzao/master/wave.gif?token=ACALHIS3WPZLNEGV5FTWGKK7G77KS" width="30px">
 
 My name is João Zão and I'm a software engineer with great enthusiasm on mobile. I'm from Portugal, living in Porto and currently working at [![Blip][0.1]](1). You can find me on [![Twitter][1.2]][2],  or on [![LinkedIn][3.2]][4].
 
@@ -50,7 +50,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[0.1]: https://raw.githubusercontent.com/joaobzao/joaobzao/master/blip-logo.png?token=ACALHIWNIBOPFWK6ZWPSFM27G74NM (Blip icon with padding)
+[0.1]: https://raw.githubusercontent.com/joaobzao/joaobzao/master/blip-logo.png?token=ACALHIXJXX6DAIG5HALQWYC7G77L6 (Blip icon with padding)
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
