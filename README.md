@@ -22,19 +22,12 @@ Apart from coding, I also tend to write some stuff from time to time. Checkout m
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/iOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
 <!-- icons without padding -->
 
 [0.1]: https://raw.githubusercontent.com/joaobzao/joaobzao/master/blip-logo.png?token=ACALHIXFJKFMAHYDAS5EL7S7HAASU (Blip icon with padding)
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/joaobzao/joaobzao/master/linkedin-3-16.png?token=ACALHISBS2ZF6CDMVGNX6QS7HAHEY (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts and workplace-->
@@ -43,12 +36,3 @@ Apart from coding, I also tend to write some stuff from time to time. Checkout m
 [2]: https://twitter.com/joaobzao
 [3]: https://github.com/joaobzao
 [4]: https://www.linkedin.com/in/joaobzao/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
