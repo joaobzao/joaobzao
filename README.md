@@ -35,4 +35,4 @@ Apart from coding, I also tend to write some stuff from time to time. Checkout m
 [1]: https://blip.pt
 [2]: https://twitter.com/joaobzao
 [3]: https://github.com/joaobzao
-[4]: https://www.linkedin.com/in/joaobzao/
+[4]: https://www.linkedin.com/in/joaozao/
