@@ -6,7 +6,7 @@ My name is João Zão and I'm a software engineer with great enthusiasm on mobil
 
 ## &#x270d; Writing
 
-Apart from coding, I also tend to write some stuff from time to time. Checkout my latest article at [PaddyPower Betfair Technology](https://ppb.technology/2020/06/19/identifiers-for-ui-testing-a-reflection-based-approach/)
+Apart from coding, I also tend to write some stuff from time to time. Checkout my latest article at [PaddyPower Betfair Technology](https://ppbtechnology.wordpress.com/2020/06/19/identifiers-for-ui-testing-a-reflection-based-approach/))
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
